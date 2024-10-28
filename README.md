@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Neha Panjabi
-- 👀 Got my sights set on Data Analytics, because who doesn’t love turning data into gold, right?
--🌱 Currently watering my brain with data analysis tools and techniques—watch it grow!
+-This repository highlights my journey through diverse data analytics projects, reflecting my dedication to mastering the field and my commitment to continuous growth and learning.
 -📫 Wanna chat? Slide into my inbox at nehapanjabi038@gmail.com!
 -⚡ Fun fact: I'm basically a data detective in training, but I still can’t figure out where my missing socks go! 😄
 
